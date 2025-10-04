@@ -2,7 +2,6 @@ import re
 
 
 PATTERNS = {
-    "identifiers": r"^[a-zA-Z][a-zA-Z0-9_]*$",
     "keywords": ["const", "char", "int", "string", "float", "double", "bool", "if", "else", "for", "while", "do"],
     "operators": ["+", "-", "*", "/", "=", "%"],
     "punctuation": [",", ";", "(", ")", "{", "}"]
