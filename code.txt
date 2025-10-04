@@ -1,0 +1,10 @@
+int a = 5;
+const int b = 10;
+
+/* Comments start here  */
+
+
+char c = 'Car';
+string d = "hello, this is lexical analysis";
+float e = 1.45;
+
